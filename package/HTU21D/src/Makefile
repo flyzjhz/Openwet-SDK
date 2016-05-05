@@ -1,0 +1,8 @@
+HTU21D : HTU21D.o
+	$(CC) $(LDFLAGS) HTU21D.o -o HTU21D
+
+HTU21D.o : HTU21D.c
+	$(CC) $(CFLAGS) -c HTU21D.c
+
+clean :
+	rm *.o HTU21D

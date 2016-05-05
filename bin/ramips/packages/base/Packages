@@ -1,0 +1,42 @@
+Package: HTU21D
+Version: 1
+Depends: libc
+Source: package/HTU21D
+Section: utils
+Architecture: ramips_24kec
+Installed-Size: 2018
+Filename: HTU21D_1_ramips_24kec.ipk
+Size: 2603
+MD5Sum: 1455e38aaa4861bab5e7f2a8b4ed2c3e
+SHA256sum: 68680d23a7c6540b6d4a059ab4cf6ce5bb274f2c1cad798bb150bced8af13480
+Description:  If you can't figure out what this program does, you're probably
+ brain-dead and need immediate medical attention.
+
+Package: I2C_test
+Version: 1
+Depends: libc
+Source: package/I2C_test
+Section: utils
+Architecture: ramips_24kec
+Installed-Size: 1617
+Filename: I2C_test_1_ramips_24kec.ipk
+Size: 2205
+MD5Sum: 08b3f16674aa51b144610d5ab7b62a6a
+SHA256sum: ea2d9b20540c93f0ff173301b25a857a41a66015c4dd106ca016285f529dbcbc
+Description:  If you can't figure out what this program does, you're probably
+ brain-dead and need immediate medical attention.
+
+Package: helloworld
+Version: 1
+Depends: libc
+Source: package/helloword
+Section: utils
+Architecture: ramips_24kec
+Installed-Size: 1275
+Filename: helloworld_1_ramips_24kec.ipk
+Size: 1851
+MD5Sum: c0bc5b06f4976056db0539d82457e4f9
+SHA256sum: 45cd5fd3ca9d56fdd87986780a1a088a7a60c8bef0e7505f9a7b302410d8d436
+Description:  If you can't figure out what this program does, you're probably
+ brain-dead and need immediate medical attention.
+

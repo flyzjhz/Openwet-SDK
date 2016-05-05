@@ -1,0 +1,9 @@
+Package: HTU21D
+Version: 1
+Depends: libc
+Source: package/HTU21D
+Section: utils
+Architecture: ramips_24kec
+Installed-Size: 2018
+Description:  If you can't figure out what this program does, you're probably
+ brain-dead and need immediate medical attention.

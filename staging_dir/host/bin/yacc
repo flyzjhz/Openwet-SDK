@@ -1,0 +1,2 @@
+#! /bin/sh
+exec '/home/kingmacth/openwrt_14.07/openwrt/staging_dir/host/bin/bison' -y "$@"

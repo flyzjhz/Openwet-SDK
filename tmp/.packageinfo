@@ -1,0 +1,54 @@
+Source-Makefile: package/I2C_test/Makefile
+Package: I2C_test
+Version: 1
+Depends: +libc +USE_EGLIBC:librt +USE_EGLIBC:libpthread 
+Menu-Depends: 
+Provides: 
+Section: utils
+Category: Utilities
+Title: I2C_test -- prints a snarky message
+Maintainer: 
+Source: 
+Type: ipkg
+Description:     If you can't figure out what this program does, you're probably
+    brain-dead and need immediate medical attention.
+
+@@
+
+
+Source-Makefile: package/helloword/Makefile
+Package: helloworld
+Version: 1
+Depends: +libc +USE_EGLIBC:librt +USE_EGLIBC:libpthread 
+Menu-Depends: 
+Provides: 
+Section: utils
+Category: Utilities
+Title: Helloworld -- prints a snarky message
+Maintainer: 
+Source: 
+Type: ipkg
+Description:     If you can't figure out what this program does, you're probably
+    brain-dead and need immediate medical attention.
+
+@@
+
+
+Source-Makefile: package/HTU21D/Makefile
+Package: HTU21D
+Version: 1
+Depends: +libc +USE_EGLIBC:librt +USE_EGLIBC:libpthread 
+Menu-Depends: 
+Provides: 
+Section: utils
+Category: Utilities
+Title: HTU21D -- prints a snarky message
+Maintainer: 
+Source: 
+Type: ipkg
+Description:     If you can't figure out what this program does, you're probably
+    brain-dead and need immediate medical attention.
+
+@@
+
+

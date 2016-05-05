@@ -1,0 +1,9 @@
+Package: helloworld
+Version: 1
+Depends: libc
+Source: package/helloword
+Section: utils
+Architecture: ramips_24kec
+Installed-Size: 1275
+Description:  If you can't figure out what this program does, you're probably
+ brain-dead and need immediate medical attention.

@@ -1,0 +1,3 @@
+package-$(CONFIG_PACKAGE_helloworld) += helloword
+package-$(CONFIG_PACKAGE_HTU21D) += HTU21D
+package-$(CONFIG_PACKAGE_I2C_test) += I2C_test
